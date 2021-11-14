@@ -1,0 +1,152 @@
+/* (vip) version: 1.0.1 */
+
+
+/* header & footer (1.0.1) */
+.ui-pdp-component-list:not(:empty) {
+    border: none;
+}
+
+.ui-pdp-gallery__input:checked+.ui-pdp-gallery__wrapper .ui-pdp-gallery__figure{
+    border-right: solid 1Px whitesmoke;
+}
+
+.ui-pdp-gallery__input:checked+.ui-pdp-gallery__wrapper .ui-pdp-gallery__figure {
+    background: #f5f5f5;
+}
+
+.ui-pdp-container__row.ui-pdp-container__row--gallery {
+    background: whitesmoke;
+}
+
+#root-app{
+    background: white;
+}
+
+.ui-vip-grouped-header{
+    background: white;
+}
+
+.ui-vip-core {
+    width: 1250px;
+}
+
+
+.ui-vip-core .ui-pdp-container--column-right {
+ 
+    max-width: 400px;
+}
+
+.ui-pdp-component-list {
+    padding:0%;
+}
+
+.ui-pdp-icon--full {
+    fill: #b56262;
+}
+
+.ui-pdp-color--GREEN {
+    color: #b56262;
+}
+
+.ui-pdp-header .ui-pdp-title {
+    font-size: 32px;
+    padding: 0;
+}
+
+.ui-pdp-stock-information{
+    display: none;
+}
+
+.andes-button--loud, .andes-button--loud:focus,  .andes-button--loud:link, .andes-button--loud:visited {
+    background-color: #b56262;
+}
+.andes-button--loud:hover {
+    background-color: #b63737;
+
+}
+
+.andes-button--quiet, .andes-button--quiet:focus, .andes-button--quiet:hover, .andes-button--quiet:link, .andes-button--quiet:visited {
+    background-color: #f0dfdf;
+    border-color: transparent;
+    color: #191919;
+}
+
+.ui-pdp-actions .andes-button {
+   margin-left: 2px;
+    margin-right: 2px;
+    width: 49%;
+}
+
+.ui-pdp-gallery__input:checked+.ui-pdp-gallery__wrapper .ui-pdp-gallery__thumbnail {
+    border: 2px solid #f0dfdf;
+}
+
+.ui-pdp-background-color--GREEN {
+    background-color: #ebebeb;
+
+}
+
+.ui-pdp-color--WHITE.ui-pdp-icon {
+    fill: black;
+}
+
+.ui-pdp-color--WHITE{
+    color: black;
+}
+
+.ui-pdp-actions__container--featured {
+    box-shadow:none;
+    padding: 14px;
+}
+
+.ui-pdp-container--pdp {
+    box-shadow:none
+}
+
+.ui-pdp-container--column-right {
+    min-width: 434px;
+}
+
+.ui-vip-core .ui-pdp-container--column-right{
+    margin-left: 35px;
+    padding-right: 0px;
+}
+
+
+.ui-pdp-additional-info{
+    display: none;
+}
+
+
+.ui-pdp-media__title-icons {
+    display: none;
+    visibility: hidden;
+}
+
+li .ui-pdp-benefits__item div .ui-pdp-media .ui-pdp-color--GRAY {
+    display: none;
+    visibility: hidden;
+
+}
+
+div .ui-pdp-media.ui-pdp-color--GRAY {
+    display: none;
+    visibility: hidden;
+}
+div.ui-pdp-price__subtitles p.ui-pdp-color--GRAY.ui-pdp-size--XSMALL.ui-pdp-family--REGULAR {
+    visibility: hidden;
+    display: none;
+
+}
+
+/*
+.ui-pdp-media .ui-pdp-color--GRAY{
+    display: none;
+    visibility: hidden;
+}
+
+
+div .ui-pdp-price__subtitles p {
+    display: none;
+    visibility: hidden;
+}*/
