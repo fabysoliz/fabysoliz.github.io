@@ -1,7 +1,6 @@
 /* (vip) version: 1.0.1 */
 
 
-/* header & footer (1.0.1) */
 .ui-pdp-component-list:not(:empty) {
     border: none;
 }
@@ -138,15 +137,3 @@ div.ui-pdp-price__subtitles p.ui-pdp-color--GRAY.ui-pdp-size--XSMALL.ui-pdp-fami
     display: none;
 
 }
-
-/*
-.ui-pdp-media .ui-pdp-color--GRAY{
-    display: none;
-    visibility: hidden;
-}
-
-
-div .ui-pdp-price__subtitles p {
-    display: none;
-    visibility: hidden;
-}*/
